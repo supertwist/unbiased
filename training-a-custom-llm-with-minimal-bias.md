@@ -1,3 +1,9 @@
+**Generated**
+Claude Opus 4.6, 02/09/2026
+
+**Prompt**
+Describe in plain english how a non-technical user might train a custom LLM with minimal bias using free and/or open source tools and sources. Break it down into simple, actikonanable steps. The LLM should be able to run in Ollama.
+
 # Training a Custom LLM with Minimal Bias for Ollama
 
 This is a simplified guide. "Training" here really means **fine-tuning** an existing open-source model on your own curated data -- training one from scratch requires millions of dollars in compute. Fine-tuning is the realistic path for an individual.

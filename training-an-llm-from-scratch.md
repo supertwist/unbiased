@@ -1,3 +1,6 @@
+**Generated**
+Claude Opus 4.6, 02/09/2026
+
 # Training an LLM from Scratch with Minimal Bias for Ollama
 
 This guide covers building a language model from the ground up -- not fine-tuning someone else's model, but training your own from a blank slate. This gives you full control over what the model learns, which is the most direct path to controlling bias.
